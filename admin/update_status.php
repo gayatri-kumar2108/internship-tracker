@@ -38,7 +38,7 @@ if (
         $stmt->bind_param(
             "si",
             $status,
-            $application_id
+            $application_i
         );
 
         $stmt->execute();

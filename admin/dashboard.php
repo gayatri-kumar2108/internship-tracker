@@ -181,7 +181,7 @@ if (!isset($_SESSION["admin_id"])) {
             </p>
 
             <a href="applications.php">
-                View Applications
+                View Application
             </a>
 
         </div>

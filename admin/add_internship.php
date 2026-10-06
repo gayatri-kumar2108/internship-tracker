@@ -311,7 +311,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         >
 
         <button type="submit">
-            Add Internship
+            Add Internshi
         </button>
 
     </form>
