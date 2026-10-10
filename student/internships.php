@@ -62,7 +62,7 @@ if ($search != "") {
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
 
-    <title>Available Internships</title>
+    <title>Available Internship</title>
 
     <style>
 
