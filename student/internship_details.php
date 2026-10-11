@@ -337,7 +337,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && !$already_applied) {
 
         <div class="info">
 
-            <strong>Locatio:</strong>
+            <strong>Location:</strong>
 
             <?php
             echo htmlspecialchars(

@@ -270,7 +270,7 @@ $result = $conn->query(
 
             <div class="empty">
 
-                <h3>No internships found</h3>
+                <h3>No internship found</h3>
 
                 <p>Add your first internship opportunity.</p>
 
