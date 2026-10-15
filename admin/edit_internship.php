@@ -241,7 +241,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <div class="navbar">
 
-    <h2>Internship Tracker - Admin</h2>
+    <h2>Internship Tracker- Admin</h2>
 
     <div>
 

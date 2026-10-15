@@ -261,7 +261,7 @@ button {
 ><?php echo htmlspecialchars($student["skills"]); ?></textarea>
 
 <button type="submit">
-Update Profile
+Update the Profile
 </button>
 
 </form>
